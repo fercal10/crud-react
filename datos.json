@@ -1,0 +1,94 @@
+{
+  "nombres": [
+    {
+      "id": 1657219665178,
+      "nombre": "Diego Castillo",
+      "salario": "20",
+      "cedula": "2846343",
+      "cargo": "",
+      "direccion": "San diego",
+      "telefono": "04123562586",
+      "profesion": "Estudiante"
+    },
+    {
+      "id": 1657123033223,
+      "nombre": "Emiro Atencio ",
+      "salario": "",
+      "cedula": "27589673",
+      "cargo": "Trabajador",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": ""
+    },
+    {
+      "id": 1651218665174,
+      "nombre": "Rosa",
+      "salario": "500",
+      "cedula": "142225852",
+      "cargo": "jefe",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": "Estudiante"
+    },
+    {
+      "id": 1657493575306,
+      "nombre": "Albani Yepez",
+      "salario": "2000",
+      "cedula": "30126373",
+      "cargo": "Jefa",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": "Estudiante"
+    },
+    {
+      "id": 1657757737852,
+      "nombre": "Oscar ",
+      "salario": "500",
+      "cedula": "2546846",
+      "cargo": "Doctor en Jefe",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": "Estudiante"
+    },
+    {
+      "id": 1658292079808,
+      "nombre": "Miguel",
+      "salario": "",
+      "cedula": "568498644",
+      "cargo": "",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": ""
+    },
+    {
+      "id": 1658326937552,
+      "nombre": "Maria Fernanda Perez",
+      "salario": "10",
+      "cedula": "28990210",
+      "cargo": "Trabajador",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": "Estudiante"
+    },
+    {
+      "id": 1658327009844,
+      "nombre": "jose pena",
+      "salario": "60",
+      "cedula": "27883213",
+      "cargo": "Trabajador",
+      "direccion": "Valencia",
+      "telefono": "04123562586",
+      "profesion": "Estudiante"
+    },
+    {
+      "id": 1658328100839,
+      "nombre": "Juan Cardenas ",
+      "salario": "3000",
+      "cedula": "29884592",
+      "cargo": "Fastido",
+      "direccion": "Valencia",
+      "telefono": "04244601212",
+      "profesion": "Estudiante "
+    }
+  ]
+}
